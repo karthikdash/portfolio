@@ -2,7 +2,8 @@
 title:              Portfolio Template
 email:              ablarry91@gmail.com
 description:        "Portfolio template for students in the MSR program at Northwestern University"
-url:                "https://karthikdash.github.io/portfolio/"
+#url:                "https://karthikdash.github.io/portfolio/"
+url:                "http://locolhost:4000"
 baseurl:            /portfolio
 
 # File structure settings
